@@ -121,9 +121,8 @@ TEST_CASE_END
 After all test cases, include:
 
 CLARIFICATIONS:
-- List any requirement that is unclear or needs confirmation.
-- If there are no clarification items, write:
-  None
+- List any requirement that is unclear or needs confirmation
+- If there is no clarifications, write a check symbol
 """
 
 # Define the structure of the Jira ticket sent by the frontend
